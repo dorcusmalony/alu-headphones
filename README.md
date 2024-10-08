@@ -2,7 +2,7 @@
 ## Overview
 The purpose of this project is to convert a design created in Figma into a fully functional web page. This implementation will be done using core web development technologies like HTML and CSS, while adhering to best practices in accessibility and responsive design to ensure optimal performance on various devices.
 
-##Project Description
+## Project Description
 
  This project focuses on developing a web page entirely from scratch using HTML and CSS. The aim is to replicate the provided Figma design closely, ensuring the page is not only visually accurate but also adheres to accessibility standards and responsive design principles.
 
@@ -16,7 +16,7 @@ Guidelines
 Quality Check: Test the web page thoroughly to verify that it meets the desired functionality, accessibility, and responsiveness.
 Reuse Components: Optimize the use of CSS by creating reusable styles where possible to maintain consistency across the page.
 ## Notes
--Potential Challenges: You might face technical challenges during the implementation phase. Don’t hesitate to look for help or refer to web development resources if needed.
+- Potential Challenges: You might face technical challenges during the implementation phase. Don’t hesitate to look for help or refer to web development resources if needed.
 Progress Tracking: Keep a record of your development progress and document any significant decisions or changes made during the project.
 Feedback: Regularly test and gather feedback on your implementation to make necessary improvements.
 ## Conclusion
